@@ -69,6 +69,7 @@ li {
     margin-bottom: 5px;
     display: flex;
     justify-content: center;
+    text-align: left;
 }
 
 img{
@@ -83,6 +84,9 @@ footer p{
     text-align: center;
 }
 
+.fa-briefcase,.fa-instagram,.fa-github,.fa-linkedin,.fa-youtube,.fa-discord{
+    font-size: 1.5em;
+}
 /*======================================== VARIAVEIS ==================================*/
 
 .brancolink {
